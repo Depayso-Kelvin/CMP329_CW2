@@ -1,0 +1,4 @@
+productName,expectedBadgeCount,expectedOutcome
+Sauce Labs Backpack,1,success
+Sauce Labs Bike Light,1,success
+Fake Product Name,0,failure

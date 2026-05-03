@@ -1,0 +1,4 @@
+firstName,lastName,postalCode,expectedOutcome,expectedMessage
+John,Doe,BT1 1AA,success,Checkout: Overview
+,Doe,BT1 1AA,failure,Error: First Name is required
+John,Doe,,failure,Error: Postal Code is required
